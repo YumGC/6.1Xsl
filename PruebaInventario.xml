@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xsl-stylesheet type="text/xsl" href="./PruebaXsl.xml"?>
+
+<inventario>
+  <producto>
+    <nombre>Camiseta</nombre>
+    <precio>20</precio>
+    <cantidad>100</cantidad>
+  </producto>
+  <producto>
+    <nombre>Pantalón</nombre>
+    <precio>30</precio>
+    <cantidad>50</cantidad>
+  </producto>
+  <producto>
+    <nombre>Zapatos</nombre>
+    <precio>50</precio>
+    <cantidad>25</cantidad>
+  </producto>
+</inventario>
