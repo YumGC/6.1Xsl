@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xsl-stylesheet type="text/xsl" href="https://yumgc.github.io/6.1Xsl/PruebaXsl.xml"?>
+<?xsl-stylesheet type="text/xsl" href="https://yumgc.github.io/6.1Xsl/PruebaXsl.xsl"?>
 <inventario>
   <producto>
     <nombre>Camiseta</nombre>
