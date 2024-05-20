@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xsl-stylesheet type="text/xsl" href="./PruebaXsl.xml"?>
+<?xsl-stylesheet type="text/xsl" href="./PruebaXsl.xsl"?>
 <inventario>
   <producto>
     <nombre>Camiseta</nombre>
