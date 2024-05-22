@@ -6,7 +6,7 @@
         <modelo>Modelo1</modelo>
         <url_oficial>https://www.marca1.com/modelo1</url_oficial>
         <manual>https://www.marca1.com/manual/modelo1.pdf</manual>
-        <imagen>"https://images.photowall.com/products/83238/colorful-gaming-accessories.jpg?h=699&çq=85"</imagen>
+        <imagen>https://images.photowall.com/products/83238/colorful-gaming-accessories.jpg?h=699&amp;çq=85</imagen>
         <tutoriales>
             <tutorial>
                 <titulo>Tutorial 1</titulo>
