@@ -6,8 +6,8 @@
   <html>
   <body>
     <h2>Inventario de Dispositivos</h2>
-    <table border="1">
-      <tr>
+    <table border="1">  
+      <tr bgcolor="#f2f2f2">
         <th>Marca</th>
         <th>Modelo</th>
         <th>URL Oficial</th>
