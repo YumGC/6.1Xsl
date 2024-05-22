@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xsl-stylesheet type="text/xsl" href="https://yumgc.github.io/6.1Xsl/PruebaXsl.xsl"?>
 <inventario>
-  <producto>
-    <nombre>Camiseta</nombre>
-    <precio>20</precio>
-    <cantidad>100</cantidad>
-  </producto>
-  <producto>
-    <nombre>Pantalón</nombre>
-    <precio>30</precio>
-    <cantidad>50</cantidad>
-  </producto>
-  <producto>
-    <nombre>Zapatos</nombre>
-    <precio>50</precio>
-    <cantidad>25</cantidad>
-  </producto>
+    <dispositivo>
+        <marca>Marca1</marca>
+        <modelo>Modelo1</modelo>
+        <url_oficial>https://www.marca1.com/modelo1</url_oficial>
+        <manual>https://www.marca1.com/manual/modelo1.pdf</manual>
+        <imagen>"https://images.photowall.com/products/83238/colorful-gaming-accessories.jpg?h=699&çq=85"</imagen>
+        <tutoriales>
+            <tutorial>
+                <titulo>Tutorial 1</titulo>
+                <url>https://www.marca1.com/tutoriales/modelo1/tutorial1</url>
+            </tutorial>
+            <tutorial>
+                <titulo>Tutorial 2</titulo>
+                <url>https://www.marca1.com/tutoriales/modelo1/tutorial2</url>
+            </tutorial>
+        </tutoriales>
+    </dispositivo>
+    <dispositivo>
+        <marca>Marca2</marca>
+        <modelo>Modelo2</modelo>
+        <url_oficial>https://www.marca2.com/modelo2</url_oficial>
+        <imagen>https://ultimainformatica.com/1506138-thickbox_default/pc-gaming-ultima-master-race-s1.jpg</imagen>
+        <tutoriales>
+            <tutorial>
+                <titulo>Tutorial 1</titulo>
+                <url>https://www.marca2.com/tutoriales/modelo2/tutorial1</url>
+            </tutorial>
+        </tutoriales>
+    </dispositivo>
 </inventario>
+ 
