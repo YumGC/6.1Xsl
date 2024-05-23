@@ -25,7 +25,7 @@
             <a href="{manual}"><xsl:value-of select="manual"/></a>
           </xsl:if>
           <xsl:if test="not(manual)">
-            N/A
+            No disponible
           </xsl:if>
         </td>
         <td><img src="{imagen}" alt="{modelo}" width="100"/></td>
